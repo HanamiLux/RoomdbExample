@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roomdb</string>
+    <string name="UserLogin">UserLogin</string>
+    <string name="UserPassword">UserPassword</string>
+</resources>
